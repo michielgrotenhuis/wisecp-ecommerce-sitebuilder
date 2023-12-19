@@ -2,7 +2,7 @@
     return [
         'created_at' => 1551254501,
         'group' => "other",
-        'status' => false,
+        'status' => true,
         'meta'         => [
             'name'    => 'Sample Product Module',
             'version' => '1.0',
