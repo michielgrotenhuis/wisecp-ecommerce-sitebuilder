@@ -1,6 +1,6 @@
 <?php 
 return [
-    'name'                            => 'Sample Product Module',
+    'name'                            => 'Store.icu Product Module',
     'turn-back'                       => 'Turn Back',
     'another'                       => "Example Page",
     'apply'                          => 'Apply',
