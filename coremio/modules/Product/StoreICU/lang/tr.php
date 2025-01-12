@@ -1,6 +1,6 @@
 <?php 
 return [
-    'name'                            => 'Örnek Ürün Modülü',
+    'name'                            => 'Store.icu Modülü',
     'turn-back'                       => "Geri Dön",
     'another'                         => "Örnek Sayfa",
     'apply'                           => "Uygula",
