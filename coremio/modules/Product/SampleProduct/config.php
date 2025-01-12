@@ -4,9 +4,9 @@
         'group' => "other",
         'status' => true,
         'meta'         => [
-            'name'    => 'Sample Product Module',
+            'name'    => 'Store.icu Product Module',
             'version' => '1.0',
-            'author'  => 'Your name goes here',
+            'author'  => 'Store.icu Dev Team',
             'logo'    => 'logo.png',
         ],
         'settings'     => [
